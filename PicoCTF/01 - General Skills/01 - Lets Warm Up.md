@@ -5,7 +5,8 @@ If i told you a word started with 0x70 in hexadecimal, what would it start with 
 Convertir el número en hexadecimal a su representación en código ASCII
 
 - Usar una página web hex to ascii
-- Usar una herramienta web como cyberhef
+- Usar una herramienta web como cyberchef
+https://gchq.github.io/CyberChef/#recipe=From_Hex('0x')&input=MHg3MA
 
 picoCTF{p}
 

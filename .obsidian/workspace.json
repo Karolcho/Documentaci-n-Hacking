@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "12fcb02d546dbac7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c55fe902004e1e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/01 - General Skills/01 - Lets Warm Up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 - Lets Warm Up"
-            }
-          }
-        ]
-      },
-      {
         "id": "d79b66dfe2d3ac92",
         "type": "tabs",
         "children": [
@@ -31,10 +11,14 @@
             "id": "f72957373c2b5b38",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/01 - General Skills/10 - Nice NetCat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 - Nice NetCat"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "67d50c50d7c91870",
@@ -199,13 +183,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c55fe902004e1e66",
+  "active": "f72957373c2b5b38",
   "lastOpenFiles": [
-    "Readme.md",
+    "PicoCTF/01 - General Skills/09 - Glitch Cat.md",
+    "PicoCTF/01 - General Skills/10 - Nice NetCat.md",
+    "PicoCTF/01 - General Skills/08 - Plumbing.md",
+    "PicoCTF/01 - General Skills/07 - What's a net cat.md",
+    "PicoCTF/01 - General Skills/06 - Obedient Cat.md",
+    "PicoCTF/01 - General Skills/05 - First Grep.md",
+    "PicoCTF/01 - General Skills/04 - Bases.md",
     "PicoCTF/01 - General Skills/01 - Lets Warm Up.md",
+    "PicoCTF/01 - General Skills/03 - Warmed Up.md",
+    "PicoCTF/01 - General Skills/02 - 2Warm.md",
+    "Untitled.md",
+    "Plantilla.md",
+    "Readme.md",
     "PicoCTF/01 - General Skills",
     "Untitled",
-    "PicoCTF",
-    "Plantilla.md"
+    "PicoCTF"
   ]
 }
