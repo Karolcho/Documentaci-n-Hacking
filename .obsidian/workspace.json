@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/05 - Web 1/45 - Picobrowser.md",
+                "file": "PicoCTF/06 - Web 2/49 - Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "45 - Picobrowser"
+              "title": "49 - Scavenger Hunt"
             }
           }
         ]
@@ -185,13 +185,18 @@
   },
   "active": "dee0d2ca788cdfd1",
   "lastOpenFiles": [
+    "PicoCTF/06 - Web 2/48 - Cookies.md",
+    "PicoCTF/06 - Web 2/49 - Scavenger Hunt.md",
+    "PicoCTF/06 - Web 2/47 - GET aHEAD.md",
+    "PicoCTF/05 - Web 1/46 - Client-Side-Again.md",
+    "PicoCTF/05 - Web 1/41 - Insp3ct0r.md",
+    "Plantilla.md",
+    "PicoCTF/05 - Web 1/45 - Picobrowser.md",
+    "PicoCTF/06 - Web 2",
+    "PicoCTF/05 - Web 1/Untitled",
     "PicoCTF/05 - Web 1/44 - Dont-use-client-side.md",
     "PicoCTF/05 - Web 1/43 - Logon.md",
     "PicoCTF/05 - Web 1/42 - Where are the robots.md",
-    "PicoCTF/05 - Web 1/41 - Insp3ct0r.md",
-    "PicoCTF/05 - Web 1/46 - Client-Side-Again.md",
-    "PicoCTF/05 - Web 1/45 - Picobrowser.md",
-    "Plantilla.md",
     "PicoCTF/03 - General Skills 3/30 - Serpentine.md",
     "PicoCTF/03 - General Skills 3/27 - PW Crack 1.md",
     "PicoCTF/04 - Tarea 1 - General Skills/32 - Chrono.md",
@@ -209,9 +214,6 @@
     "PicoCTF/01 - General Skills/02 - 2Warm.md",
     "PicoCTF/01 - General Skills/01 - Lets Warm Up.md",
     "PicoCTF/04 - Tarea 1 - General Skills/38 - Binary Search.md",
-    "PicoCTF/04 - Tarea 1 - General Skills/37 - Collaborative Development.md",
-    "PicoCTF/03 - General Skills 3/28 - PW Crack 2.md",
-    "PicoCTF/04 - Tarea 1 - General Skills/31 - Permissions.md",
     "PicoCTF/04 - Tarea 1 - General Skills",
     "PicoCTF/03 - General Skills 3",
     "PicoCTF/02 - General Skills 2",
