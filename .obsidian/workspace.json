@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/08 - Web 4/56 - Most Cookies.md",
+                "file": "PicoCTF/09 - Tarea 2 - Web/62 - Roboto Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "56 - Most Cookies"
+              "title": "62 - Roboto Sans"
             }
           }
         ],
@@ -200,11 +200,22 @@
   },
   "active": "224b673a102f71c9",
   "lastOpenFiles": [
-    "PicoCTF/08 - Web 4/55 - Trickster.md",
-    "PicoCTF/08 - Web 4/56 - Most Cookies.md",
+    "PicoCTF/09 - Tarea 2 - Web/60 - Local Authority.md",
+    "PicoCTF/09 - Tarea 2 - Web/58 - Inspect HTML.md",
+    "PicoCTF/09 - Tarea 2 - Web/57 - Includes.md",
+    "PicoCTF/09 - Tarea 2 - Web/66 - WebDecode.md",
+    "PicoCTF/09 - Tarea 2 - Web/65 - Unminify.md",
+    "PicoCTF/09 - Tarea 2 - Web/59 - IntroToBurp.md",
+    "PicoCTF/09 - Tarea 2 - Web/61 - Power Cookie.md",
+    "PicoCTF/09 - Tarea 2 - Web/62 - Roboto Sans.md",
+    "PicoCTF/09 - Tarea 2 - Web/63 - Secrets.md",
+    "PicoCTF/09 - Tarea 2 - Web/64 - SQLiLite.md",
     "PicoCTF/08 - Web 4/53 - MatchTheRegex.md",
-    "PicoCTF/08 - Web 4/54 - SOAP.md",
+    "PicoCTF/08 - Web 4/56 - Most Cookies.md",
     "Plantilla.md",
+    "PicoCTF/09 - Tarea 2 - Web",
+    "PicoCTF/08 - Web 4/55 - Trickster.md",
+    "PicoCTF/08 - Web 4/54 - SOAP.md",
     "PicoCTF/04 - Tarea 1 - General Skills/32 - Chrono.md",
     "PicoCTF/04 - Tarea 1 - General Skills/31 - Permissions.md",
     "PicoCTF/05 - Web 1/46 - Client-Side-Again.md",
@@ -216,25 +227,14 @@
     "PicoCTF/06 - Web 2/49 - Scavenger Hunt.md",
     "PicoCTF/06 - Web 2/48 - Cookies.md",
     "PicoCTF/06 - Web 2/47 - GET aHEAD.md",
-    "PicoCTF/07 - Web 3/52 - JaWT Scratchpad.md",
-    "PicoCTF/07 - Web 3/51 - More SQLi.md",
-    "PicoCTF/07 - Web 3/50 - Irish-Name-Repo 1.md",
-    "Readme.md",
     "PicoCTF/08 - Web 4",
-    "PicoCTF/03 - General Skills 3/27 - PW Crack 1.md",
-    "PicoCTF/03 - General Skills 3/22 - Runme.py.md",
     "PicoCTF/07 - Web 3",
     "PicoCTF/06 - Web 2",
     "PicoCTF/05 - Web 1/Untitled",
-    "PicoCTF/03 - General Skills 3/30 - Serpentine.md",
-    "PicoCTF/04 - Tarea 1 - General Skills/39 - Binhexa.md",
-    "PicoCTF/04 - Tarea 1 - General Skills/40 - ASCII Numbers.md",
     "PicoCTF/05 - Web 1",
-    "PicoCTF/01 - General Skills/04 - Bases.md",
     "PicoCTF/04 - Tarea 1 - General Skills",
     "PicoCTF/03 - General Skills 3",
     "PicoCTF/02 - General Skills 2",
-    "PicoCTF/01 - General Skills",
-    "Untitled"
+    "PicoCTF/01 - General Skills"
   ]
 }
