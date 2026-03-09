@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/85 - WebsockFish.md",
+                "file": "PicoCTF/12 - Forensic 1/89 - What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "85 - WebsockFish"
+              "title": "89 - What Lies Within"
             }
           }
         ],
@@ -198,8 +198,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "224b673a102f71c9",
+  "active": "643a0307a1990475",
   "lastOpenFiles": [
+    "PicoCTF/12 - Forensic 1/88 - Extensions.md",
+    "PicoCTF/12 - Forensic 1/87 - Shark on Wire 1.md",
+    "PicoCTF/12 - Forensic 1/86 - So Meta.md",
+    "PicoCTF/12 - Forensic 1/85 - Glory of the Garden.md",
+    "PicoCTF/12 - Forensic 1/89 - What Lies Within.md",
+    "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/85 - WebsockFish.md",
+    "Plantilla.md",
+    "PicoCTF/12 - Forensic 1",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/83 - SQL Direct.md",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/82 - Java Code Analysis!.md",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/80 - SSTI1.md",
@@ -210,7 +218,6 @@
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/68 - HashingJobApp.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/67 - Fantasy CTF.md",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/81 - Findme.md",
-    "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/85 - WebsockFish.md",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web/84 - SSTI2.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/75 - SansAlpha.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/74 - Python Wrangling.md",
@@ -219,22 +226,15 @@
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/71 - Rust Fixme 3.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/70 - Rust Fixme 2.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills/69 - Rust Fixme 1.md",
-    "Plantilla.md",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills",
     "PicoCTF/09 - Tarea 2 - Web/62 - Roboto Sans.md",
     "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web",
-    "PicoCTF/09 - Tarea 2 - Web/60 - Local Authority.md",
-    "PicoCTF/09 - Tarea 2 - Web/58 - Inspect HTML.md",
-    "PicoCTF/09 - Tarea 2 - Web/57 - Includes.md",
-    "PicoCTF/09 - Tarea 2 - Web/66 - WebDecode.md",
-    "PicoCTF/09 - Tarea 2 - Web/65 - Unminify.md",
     "PicoCTF/09 - Tarea 2 - Web",
     "PicoCTF/08 - Web 4",
     "PicoCTF/07 - Web 3",
     "PicoCTF/06 - Web 2",
     "PicoCTF/05 - Web 1/Untitled",
     "PicoCTF/05 - Web 1",
-    "PicoCTF/04 - Tarea 1 - General Skills",
-    "PicoCTF/03 - General Skills 3"
+    "PicoCTF/04 - Tarea 1 - General Skills"
   ]
 }
