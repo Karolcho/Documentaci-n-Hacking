@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/16 - Tarea 4 - Forensic/114 - Ph4nt0m 1ntrud3r.md",
+                "file": "PicoCTF/17 - Crypto 1/115 - The Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "114 - Ph4nt0m 1ntrud3r"
+              "title": "115 - The Numbers"
             }
           }
         ]
@@ -185,15 +185,25 @@
   },
   "active": "29e0f0b5d3483ea3",
   "lastOpenFiles": [
-    "PicoCTF/16 - Tarea 4 - Forensic/113 - RED.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/112 - Secret of the Polygot.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/111 - CanYouSee.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/110 - Scan Surprise.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/109 - Hideme.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/108 - Redaction Gone Wrong.md",
+    "PicoCTF/17 - Crypto 1/122 - Interencdec.md",
+    "PicoCTF/17 - Crypto 1/121 - Waves Over Lambda.md",
+    "PicoCTF/17 - Crypto 1/120 - Tapping.md",
+    "PicoCTF/17 - Crypto 1/119 - La Cifra De.md",
+    "PicoCTF/17 - Crypto 1/118 - Easy 1.md",
+    "PicoCTF/17 - Crypto 1/117 - Caesar.md",
+    "PicoCTF/17 - Crypto 1/116 - 13.md",
+    "PicoCTF/17 - Crypto 1/115 - The Numbers.md",
     "PicoCTF/16 - Tarea 4 - Forensic/107 - St3g0.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/106 - Information.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/108 - Redaction Gone Wrong.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/109 - Hideme.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/110 - Scan Surprise.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/111 - CanYouSee.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/112 - Secret of the Polygot.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/113 - RED.md",
     "PicoCTF/16 - Tarea 4 - Forensic/114 - Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/16 - Tarea 4 - Forensic/106 - Information.md",
+    "Plantilla.md",
+    "PicoCTF/17 - Crypto 1",
     "PicoCTF/16 - Tarea 4 - Forensic",
     "PicoCTF-Concurso2026/Forensics Git 1.md",
     "PicoCTF-Concurso2026/Sql Map1.md",
@@ -203,16 +213,7 @@
     "PicoCTF-Concurso2026/Secret Box.md",
     "PicoCTF-Concurso2026/Rogue Tower.md",
     "PicoCTF-Concurso2026/Old Sessions.md",
-    "PicoCTF-Concurso2026/Multicode.md",
-    "PicoCTF-Concurso2026/Forensics Git 2.md",
-    "PicoCTF-Concurso2026/Fool the Lockout.md",
-    "PicoCTF-Concurso2026/Bytemancy 2.md",
-    "PicoCTF-Concurso2026/Bytemancy 3.md",
-    "PicoCTF-Concurso2026/Bytemancy 1.md",
     "PicoCTF-Concurso2026",
-    "PicoCTF/15 - Forensic 4/100 - Milkslap.md",
-    "PicoCTF/15 - Forensic 4/102 - Sleuthkit Intro.md",
-    "PicoCTF/15 - Forensic 4/103 - Sleuthkit Apprentice.md",
     "PicoCTF/15 - Forensic 4",
     "15 - Forensic 4",
     "PicoCTF/14 - Forensic 3",
@@ -220,7 +221,6 @@
     "PicoCTF/13 - Forensic 2",
     "PicoCTF/12 - Forensic 1",
     "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills",
-    "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web",
-    "PicoCTF/09 - Tarea 2 - Web"
+    "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web"
   ]
 }
