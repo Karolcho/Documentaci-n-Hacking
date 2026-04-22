@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/20 - Crypto 4/132 - Flags.md",
+                "file": "PicoCTF/21 - Tarea 5 - Crypto/142 - Hashcrack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "132 - Flags"
+              "title": "142 - Hashcrack"
             }
           }
         ],
@@ -200,12 +200,23 @@
   },
   "active": "8c8d399963432874",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/142 - Hashcrack.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/141 - Vigenere.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/135 - EVEN RSA CAN BE BROKEN.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/140 - Substitution2.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/139 - Substitution1.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/138 - Substitution0.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/137 - Rail-Fence.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/133 - Crack the Power.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/136 - Morse-Code.md",
+    "PicoCTF/21 - Tarea 5 - Crypto/134 - Credstuff.md",
+    "PicoCTF/20 - Crypto 4/132 - Flags.md",
+    "PicoCTF/21 - Tarea 5 - Crypto",
     "PicoCTF/20 - Crypto 4/131 - ReadMyCert.md",
     "PicoCTF/20 - Crypto 4/130 - HideToSee.md",
     "PicoCTF/20 - Crypto 4/129 - Basic-mod1.md",
     "PicoCTF/20 - Crypto 4/128 - Pixelated.md",
-    "PicoCTF/20 - Crypto 4/132 - Flags.md",
-    "Plantilla.md",
     "Sin título.base",
     "PicoCTF/19 - Crypto 3/125 - Mind your Ps and Qs.md",
     "PicoCTF/20 - Crypto 4",
@@ -220,21 +231,11 @@
     "PicoCTF/17 - Crypto 1/120 - Tapping.md",
     "PicoCTF/17 - Crypto 1/119 - La Cifra De.md",
     "PicoCTF/17 - Crypto 1/118 - Easy 1.md",
-    "PicoCTF/17 - Crypto 1/117 - Caesar.md",
-    "PicoCTF/17 - Crypto 1/116 - 13.md",
-    "PicoCTF/17 - Crypto 1/115 - The Numbers.md",
-    "PicoCTF/17 - Crypto 1/122 - Interencdec.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/107 - St3g0.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/108 - Redaction Gone Wrong.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/109 - Hideme.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/110 - Scan Surprise.md",
-    "PicoCTF/16 - Tarea 4 - Forensic/111 - CanYouSee.md",
     "PicoCTF/17 - Crypto 1",
     "PicoCTF/16 - Tarea 4 - Forensic",
     "PicoCTF-Concurso2026",
     "PicoCTF/15 - Forensic 4",
     "15 - Forensic 4",
-    "PicoCTF/14 - Forensic 3",
     "Sin título.canvas"
   ]
 }
