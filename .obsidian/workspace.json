@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/23 - Reversing 2/153 - Picker IV.md",
+                "file": "PicoCTF/24 - Reversing 3/156 - Asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "153 - Picker IV"
+              "title": "156 - Asm3"
             }
           }
         ]
@@ -185,14 +185,19 @@
   },
   "active": "8c8d399963432874",
   "lastOpenFiles": [
+    "PicoCTF/24 - Reversing 3/155 - Asm2.md",
+    "PicoCTF/24 - Reversing 3/156 - Asm3.md",
+    "PicoCTF/24 - Reversing 3/154 - Asm1.md",
     "PicoCTF/23 - Reversing 2/152 - Picker III.md",
     "PicoCTF/23 - Reversing 2/153 - Picker IV.md",
+    "Plantilla.md",
+    "Readme.md",
+    "PicoCTF/23 - Reversing 2/148 - Safe Opener 2.md",
+    "PicoCTF/24 - Reversing 3",
     "PicoCTF/23 - Reversing 2/151 - Picker II.md",
     "PicoCTF/23 - Reversing 2/150 - Picker I.md",
     "PicoCTF/23 - Reversing 2/149 - Timer.md",
-    "PicoCTF/23 - Reversing 2/148 - Safe Opener 2.md",
     "PicoCTF/17 - Crypto 1/122 - Interencdec.md",
-    "Plantilla.md",
     "PicoCTF/23 - Reversing 2",
     "PicoCTF/22 - Reversing 1/146 - Vault-Door-4.md",
     "PicoCTF/22 - Reversing 1/147 - Vault-Door-5.md",
@@ -209,18 +214,13 @@
     "PicoCTF/21 - Tarea 5 - Crypto/137 - Rail-Fence.md",
     "PicoCTF/21 - Tarea 5 - Crypto/133 - Crack the Power.md",
     "PicoCTF/21 - Tarea 5 - Crypto/136 - Morse-Code.md",
-    "PicoCTF/21 - Tarea 5 - Crypto/134 - Credstuff.md",
-    "PicoCTF/20 - Crypto 4/132 - Flags.md",
     "PicoCTF/21 - Tarea 5 - Crypto",
-    "PicoCTF/20 - Crypto 4/131 - ReadMyCert.md",
-    "PicoCTF/20 - Crypto 4/130 - HideToSee.md",
     "Sin título.base",
     "PicoCTF/20 - Crypto 4",
     "PicoCTF/19 - Crypto 3",
     "PicoCTF/18 - Crypto 2",
     "PicoCTF/17 - Crypto 1",
     "PicoCTF/16 - Tarea 4 - Forensic",
-    "PicoCTF-Concurso2026",
     "Sin título.canvas"
   ]
 }
